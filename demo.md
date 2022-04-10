@@ -2,7 +2,7 @@ This is the firs line. Adding some text for video 30 about merging branches.
 
 This is the second!
 
-And here comes the third.
+And here comes the third, from the conflict-test branch.
 
 But this a fourth line, part of video 23, Pull, Git and GitHub for Writers. THIS IS IT.
 
