@@ -1,2 +1,2 @@
 # simple
-Exercise from "Getting Starterd with GitHub", Git and GitHub for Writers
+Exercise from "Getting Started with GitHub", Git and GitHub for Writers
